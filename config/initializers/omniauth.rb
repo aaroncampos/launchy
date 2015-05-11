@@ -1,5 +1,5 @@
-Rails.configuration.DAILYCRED_CLIENT_ID = ENV['launchy_dc_id'] || "YOUR-CLIENT-ID"
-Rails.configuration.DAILYCRED_SECRET_KEY = ENV['launchy_dc_secret'] || "YOUR-CLIENT-SECRET"
+Rails.configuration.DAILYCRED_CLIENT_ID = ENV['launchy_dc_id'] || "cf45613d-1348-49f0-a740-2207ca047c89"
+Rails.configuration.DAILYCRED_SECRET_KEY = ENV['launchy_dc_secret'] || "secret"
 
 #this is used to redirect to '/thanks' after login and '/' after logout
 dc_options = {
