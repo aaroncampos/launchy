@@ -2,7 +2,7 @@
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
 en:
-  welcome1: "Launchy is building the next next big thing."
+  welcome1: "Commit.to"
   welcome2: "Sign up to be the first to know when we launch!"
   thanks1: "Thanks for signing up %{name}!"
-  thanks2: "Launchy is still a work in progress. We'll keep in touch!"
+  thanks2: "Commit.to is still a work in progress. We'll keep in touch!"
